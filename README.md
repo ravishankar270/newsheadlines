@@ -8,4 +8,4 @@ on clicking a headline one will be redirected to details page
 
 on refresh main page will be reloaded
 
-![screencapture-localhost-3000-1602651791452](https://user-images.githubusercontent.com/61575048/95946251-ca82db00-0e09-11eb-90ee-7aa8e4ad7e54.png)
+![screencapture-localhost-3000-1602683245043](https://user-images.githubusercontent.com/61575048/95997985-06419300-0e52-11eb-9c4e-61370d54588c.png)
